@@ -16,7 +16,7 @@ To use the application:
 2. Install the necessary dependencies using `pip install streamlit joblib requests`.
 3. Check and modify the path for certain files in the code
 4. Run the `ver.ipynb` file 
-5. Run the Streamlit app by executing `ver.py` in your terminal.
+5. Run the Streamlit app by executing `streamlit run ver.py` in your terminal.
 6. Access the app via the provided local URL in your browser.
 7. Enter a city name to retrieve weather data and receive the cloud burst prediction output.
 
