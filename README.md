@@ -32,6 +32,6 @@ To use the application:
 ## License
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
-![Streamlit Page](https://github.com/pradeish29/cloud-burst-predict/blob/master/Streamlit_page.jpg)
+![Streamlit Page](https://github.com/pradeish29/cloud-burst-predict/blob/main/Streamlit_page.jpg)
 
 Feel free to customize this template further according to your project's needs!
