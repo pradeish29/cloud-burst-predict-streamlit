@@ -3,6 +3,8 @@
 ## Overview
 This project aims to predict cloud burst occurrences using a Random Forest model deployed via a Streamlit web application. The model utilizes real-time weather data from OpenWeather.org, allowing users to input a city name to retrieve relevant weather information and receive a prediction output.
 
+![Streamlit Page](https://github.com/pradeish29/cloud-burst-predict/blob/main/Streamlit_page.jpg)
+
 ## Features
 - **Real-time Weather Data**: Integration with OpenWeather.org provides up-to-date weather information.
 - **User-Friendly Interface**: Streamlit app allows users to easily input city names and view prediction outputs.
@@ -32,6 +34,6 @@ To use the application:
 ## License
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
-![Streamlit Page](https://github.com/pradeish29/cloud-burst-predict/blob/main/Streamlit_page.jpg)
+
 
 Feel free to customize this template further according to your project's needs!
