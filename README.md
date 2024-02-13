@@ -10,6 +10,7 @@ This project aims to predict cloud burst occurrences using a Random Forest model
 - **User-Friendly Interface**: Streamlit app allows users to easily input city names and view prediction outputs.
 - **Random Forest Model**: Utilizes a trained Random Forest model to predict cloud burst occurrences based on weather data.
 
+
 ## Usage
 To use the application:
 1. Clone the repository to your local machine.
