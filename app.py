@@ -69,7 +69,7 @@ def main():
         # Assuming you have a trained model saved
         # Initialize your model
         # Load your trained model using joblib or pickle
-        model = joblib.load(r'C:\Users\KAVIYA\OneDrive\Desktop\cloud\model.joblib')
+        model = joblib.load('model.joblib')
 
         # Make predictions
         prediction = model.predict(processed_data)  # Pass processed data to the model
