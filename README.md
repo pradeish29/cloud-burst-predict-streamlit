@@ -4,10 +4,11 @@
 This project aims to predict cloud burst occurrences using a Random Forest model deployed via a Streamlit web application. The model utilizes real-time weather data from OpenWeather.org, allowing users to input a city name to retrieve relevant weather information and receive a prediction output.
 
 ## Deployment
-this project has been deployed using streamlit cloud
+this project has been deployed using streamlit cloud.
+
 https://cloud-burst-prediction.streamlit.app/
 
-
+## Page view
 ![Streamlit Page](https://github.com/pradeish29/cloud-burst-predict/blob/main/Streamlit_page.jpg)
 
 ## Features
