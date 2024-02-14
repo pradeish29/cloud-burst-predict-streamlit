@@ -3,6 +3,11 @@
 ## Overview
 This project aims to predict cloud burst occurrences using a Random Forest model deployed via a Streamlit web application. The model utilizes real-time weather data from OpenWeather.org, allowing users to input a city name to retrieve relevant weather information and receive a prediction output.
 
+## Deployment
+this project has been deployed using streamlit cloud
+https://cloud-burst-prediction.streamlit.app/
+
+
 ![Streamlit Page](https://github.com/pradeish29/cloud-burst-predict/blob/main/Streamlit_page.jpg)
 
 ## Features
@@ -16,8 +21,8 @@ To use the application:
 1. Clone the repository to your local machine.
 2. Install the necessary dependencies using `pip install streamlit joblib requests`.
 3. Check and modify the path for certain files in the code
-4. Run the `ver.ipynb` file 
-5. Run the Streamlit app by executing `streamlit run ver.py` in your terminal.
+4. Run the `model.ipynb` file 
+5. Run the Streamlit app by executing `streamlit run app.py` in your terminal.
 6. Access the app via the provided local URL in your browser.
 7. Enter a city name to retrieve weather data and receive the cloud burst prediction output.
 
