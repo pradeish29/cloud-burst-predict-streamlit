@@ -16,7 +16,6 @@ https://cloud-burst-prediction.streamlit.app/
 - **User-Friendly Interface**: Streamlit app allows users to easily input city names and view prediction outputs.
 - **Random Forest Model**: Utilizes a trained Random Forest model to predict cloud burst occurrences based on weather data.
 
-
 ## Usage
 To use the application:
 1. Clone the repository to your local machine.
@@ -29,7 +28,7 @@ To use the application:
 
 ## File Structure
 - `app.py`: Streamlit application script.
-- `random_forest_model.joblib`: Pre-trained Random Forest model for cloud burst prediction.
+- `model.ipynb`: Pre-trained Random Forest model for cloud burst prediction.
 
 ## Data Sources
 - [OpenWeather.org](https://openweathermap.org/): Provides real-time weather data.
