@@ -19,7 +19,7 @@ https://cloud-burst-prediction.streamlit.app/
 ## Usage
 To use the application:
 1. Clone the repository to your local machine.
-2. Install the necessary dependencies using `pip install streamlit joblib requests`.
+2. Install the necessary dependencies using `pip install streamlit joblib requests bz2file`.
 3. Check and modify the path for certain files in the code
 4. Run the `model.ipynb` file 
 5. Run the Streamlit app by executing `streamlit run app.py` in your terminal.
