@@ -29,6 +29,7 @@ To use the application:
 ## File Structure
 - `app.py`: Streamlit application script.
 - `model.ipynb`: Pre-trained Random Forest model for cloud burst prediction.
+- `model.joblib`: For importing and exporting the Random Forest model 
 
 ## Data Sources
 - [OpenWeather.org](https://openweathermap.org/): Provides real-time weather data.
